@@ -1,6 +1,10 @@
 # classgenerator
 ### 用途
-根据传入的json生成php对象
+根据传入的json生成对象
+
+### Tips
+暂时只支持了PHP
+
 ### 用法
 ```bash
 Usage of ./classgenerator:
