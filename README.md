@@ -13,6 +13,6 @@ Usage of ./classgenerator:
 
 
 调用例子：
-    ./classgenerator --namespace="KS2Door\RequestExample" \
+    ./classgenerator --namespace="RequestExample" \
     --f="../src/RequestExample" \
     --json='{"hello":"world", "number":[1,2,3], "objectList":[{"id": 1}], "obj": {"name": "test", "age": 10}}'
