@@ -1,6 +1,4 @@
-# 主要存放一些二进制工具
-
-## classgenerator
+# classgenerator
 ### 用途
 根据传入的json生成php对象
 ### 用法
